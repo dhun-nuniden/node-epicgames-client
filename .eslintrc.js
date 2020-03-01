@@ -8,6 +8,7 @@ module.exports = {
 		"class-methods-use-this": "off",
 		"no-param-reassign": "off",
 		"max-len": [2, 200, 4],
+		"linebreak-style": "off"
 	}
 	
 };
